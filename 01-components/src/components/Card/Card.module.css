@@ -1,0 +1,15 @@
+.cardBlock {
+        background: rgb(126, 207, 183);
+}
+
+.titleStyle {
+        color: tomato
+}
+
+.avaliable {
+        background: green;
+}
+
+.unavaliable {
+        background: red;
+}

@@ -1,0 +1,7 @@
+1. Single page application/Multiple page app
+2. Бібліотека React
+3. cra and devtools
+4. jsx
+5. Components
+5. Рендер за умовою
+6. Колекція
