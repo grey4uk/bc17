@@ -1,0 +1,14 @@
+* {
+        margin: 0;
+        padding: 0;
+}
+
+.card {
+        background: rgb(172, 209, 172);
+}
+
+.container {
+        display: block;
+        margin: 0 auto;
+        width: 80vw;
+}

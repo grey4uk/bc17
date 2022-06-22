@@ -1,0 +1,12 @@
+- PropTypes
+- Kahoot https://create.kahoot.it/details/b900dec6-1c23-41ba-a4af-1723a036ef35
+- Ванильный  CSS и препроцессоры
+- Инлайн стили
+- CSS-модули
+- Нормализация стилей
+- CSS in JS styled-components
+- Библиотека react-icons
+
+Приклад універсальної модалки з типами: unsuccess, success
+
+Світлофор: ready, steady, go

@@ -1,0 +1,22 @@
+.cardBlock {
+        background: var(--marine);
+}
+
+.titleStyle {
+        color: tomato
+}
+
+.idBlock {
+        padding: 20px 0;
+        border-radius: 10%;
+}
+
+.avaliable {
+        composes: idBlock;
+        background: green;
+}
+
+.unavaliable {
+        composes: idBlock;
+        background: red;
+}
